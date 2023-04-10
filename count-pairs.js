@@ -1,3 +1,3 @@
-// add whatever parameters you deem necessary & write docstring
+//started work
 function countPairs() {
 }
